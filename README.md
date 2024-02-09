@@ -22,4 +22,4 @@
         Rect.left += 10;
         Rect.top += 31;
         User32.MoveWindow(Handle, Rect.left, Rect.top, Rect.right - Rect.left - 7, Rect.bottom - Rect.top, true);
-```C#
+```
